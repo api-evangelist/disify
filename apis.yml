@@ -23,6 +23,8 @@ apis:
       - type: Documentation
         url: https://www.disify.com/
 common:
+  - type: DomainSecurity
+    url: security/disify-domain-security.yml
   - type: Website
     url: https://www.disify.com/
   - type: PublicAPIsListing
