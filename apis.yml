@@ -39,7 +39,6 @@ apis:
   - name: Disify
     description: "Validate and detect disposable and temporary email addresses"
     humanURL: https://www.disify.com/
-    baseURL: https://www.disify.com/
     tags:
       - Email
     properties:
